@@ -31,7 +31,7 @@ Make sure you will use the data set in the repo.
 
 ## Built With
 
-Walmart_project.ipynb
+sales_prediction.ipynb
 
 ## Authors
 
