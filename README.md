@@ -2,9 +2,9 @@
 Training and regularizing a linear machine learning model to predict a store weekly sales
 
 The project has 3 main steps:
-* Part 1 :EDA and all the necessary preprocessings to prepare data for machine learning
-* Part 2 : training a linear regression model 
-* Part 3 : fight overfitting by training a regularized regression model
+* Part 1 : EDA and all the necessary preprocessings to prepare data for machine learning
+* Part 2 : Training a linear regression model 
+* Part 3 : Fighting overfitting by training a regularized regression model
 
 ## Getting Started
 
